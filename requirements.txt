@@ -1,7 +1,8 @@
+setuptools>=65.5.0
+wheel
 Flask==2.3.3
 Werkzeug==2.3.7
 numpy==1.24.4
 opencv-python==4.9.0.80
 supabase
-setuptools>=65.5.1
-wheel
+
