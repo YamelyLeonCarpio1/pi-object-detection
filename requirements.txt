@@ -1,0 +1,7 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+numpy==1.24.4
+opencv-python==4.9.0.80
+supabase==2.4.5
+ultralytics==8.0.196
+gunicorn==21.2.0
